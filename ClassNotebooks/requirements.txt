@@ -21,8 +21,6 @@ click==6.6
 cloudpickle==0.2.1
 clyent==1.2.2
 colorama==0.3.7
-conda==4.2.12
-conda-build==2.0.2
 configobj==5.0.6
 contextlib2==0.5.3
 cryptography==1.5
@@ -119,11 +117,9 @@ QtPy==1.1.2
 redis==2.10.5
 requests==2.11.1
 rope-py3k==0.9.4.post1
-ruamel-yaml===-VERSION
 scikit-image==0.12.3
 scikit-learn==0.17.1
 scipy==0.18.1
-seaborn==0.7.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
